@@ -31,16 +31,14 @@ I am a Backend Developer focused on building scalable systems, real-time communi
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### 📊 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preyash-Thakkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-Thakkar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preyash-Thakkar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Preyash-Thakkar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Preyash-Thakkar&theme=tokyonight&hide_border=true)](https://github.com/Preyash-Thakkar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Preyash-Thakkar&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Preyash-Thakkar)
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/preyash-thakkar-08247a249)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://preyash.site)
 
 ---
-<div align="left">
-  <img src="https://visitcount.itsvg.in/api?id=Preyash-Thakkar&icon=0&color=6" alt="Profile Views" />
-</div>
+[![Profile Views](https://visitcount.itsvg.in/api?id=Preyash-Thakkar&icon=0&color=6)](https://visitcount.itsvg.in)
